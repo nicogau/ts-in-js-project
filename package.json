@@ -1,0 +1,23 @@
+{
+  "name": "jsdoc-test",
+  "version": "1.0.0",
+  "description": "training to type a js project with jsdoc and typescript",
+  "source": "index.html",
+  "author": "nico. G",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "parcel"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.29",
+    "@types/react-dom": "^18.0.11",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
